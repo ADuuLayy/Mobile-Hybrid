@@ -1,0 +1,4 @@
+com/example/phonegap/MainActivity.java
+ com.example.phonegap.MainActivity
+com/example/phonegap/BuildConfig.java
+ com.example.phonegap.BuildConfig

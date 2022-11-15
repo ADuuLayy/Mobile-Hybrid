@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hm95\StudioProjects\Phonegap_SQLite\app\libs\cordova-2.9.0.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="1c00db30c9cdad3676aeefd78e37b716364b5259">
+        <dex dex="C:\Users\hm95\StudioProjects\Phonegap_SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\2\cordova-2.9.0_96739d5517f45de4c931cd2b852653559804fa25\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hm95\StudioProjects\Phonegap_SQLite\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\hm95\StudioProjects\Phonegap_SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.0_86433fa43ad2d2275cc8e6b752baaa88d7d1ed31\classes.dex" />
+    </item>
+    <item
+        jar="C:\Institutions\Gre\Apps\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\hm95\StudioProjects\Phonegap_SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.0_24cfbd76a3ae052e67b475beef11891da8b21363\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hm95\StudioProjects\Phonegap_SQLite\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\hm95\StudioProjects\Phonegap_SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.0_b6a95fa1a21ba2f1423473947d90aa47becdffaa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hm95\StudioProjects\Phonegap_SQLite\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="ee92c1a5f88ca1e4c5ebcba137f2c968dee73198">
+        <dex dex="C:\Users\hm95\StudioProjects\Phonegap_SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_97a8bb9f8be99701f1f387030c36593f201be444\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hm95\StudioProjects\Phonegap_SQLite\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="a2e7fb13fde9258412c1873b8e03022ad72e9056">
+        <dex dex="C:\Users\hm95\StudioProjects\Phonegap_SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_795690b88c42f110713e6ec87b2fc35e74ad60ca\classes.dex" />
+    </item>
+
+</items>

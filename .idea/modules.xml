@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mobile_Coursework_Hybrid.iml" filepath="$PROJECT_DIR$/.idea/modules/Mobile_Coursework_Hybrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Mobile_Coursework_Hybrid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Mobile_Coursework_Hybrid.app.iml" />
+    </modules>
+  </component>
+</project>

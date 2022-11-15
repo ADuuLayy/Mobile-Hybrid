@@ -1,0 +1,4 @@
+#Sun Nov 21 18:58:37 MMT 2021
+base.0=D\:\\Mobile Coursework Hybrid\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

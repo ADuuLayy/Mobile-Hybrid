@@ -1,0 +1,17 @@
+com.example.phonegap:string/hello_world = 0x7f070002
+com.example.phonegap:string/action_settings = 0x7f070000
+com.example.phonegap:mipmap/ic_launcher_round = 0x7f060001
+com.example.phonegap:xml/config = 0x7f090000
+com.example.phonegap:drawable/$ic_launcher_foreground__0 = 0x7f020000
+com.example.phonegap:mipmap/ic_launcher = 0x7f060000
+com.example.phonegap:layout/activity_main = 0x7f040000
+com.example.phonegap:string/app_name = 0x7f070001
+com.example.phonegap:dimen/activity_vertical_margin = 0x7f010001
+com.example.phonegap:drawable/ic_launcher_background = 0x7f020002
+com.example.phonegap:style/AppBaseTheme = 0x7f080000
+com.example.phonegap:menu/main = 0x7f050000
+com.example.phonegap:drawable/ic_launcher = 0x7f020001
+com.example.phonegap:drawable/ic_launcher_foreground = 0x7f020003
+com.example.phonegap:id/action_settings = 0x7f030000
+com.example.phonegap:style/AppTheme = 0x7f080001
+com.example.phonegap:dimen/activity_horizontal_margin = 0x7f010000
